@@ -1,0 +1,137 @@
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  background-color: #e6f0f0;
+  margin: 0;
+}
+
+*, :before, :after {
+  box-sizing: border-box;
+  font-family: Poppins, sans-serif;
+}
+
+.visually-hidden {
+  clip: rect(0 0 0 0);
+  border: 0;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  position: absolute;
+  overflow: hidden;
+}
+
+.dNrifW_character {
+  height: 100%;
+}
+
+.MFTdDW_maxWidthWrapper {
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 32px;
+  padding-right: 32px;
+}
+
+.lRZUda_toggleButton {
+  outline-offset: 2px;
+  cursor: pointer;
+  background: #fff;
+  border: 2px solid #0d0d0d;
+  border-radius: 1px;
+  width: 50px;
+  height: 50px;
+  margin-right: 4px;
+  font-size: 1.25rem;
+  font-weight: 700;
+  position: relative;
+}
+
+.lRZUda_toggleButton[aria-pressed="true"] {
+  color: #fff;
+  background: #0d0d0d;
+  border-width: 6px;
+}
+
+.GelLCa_buttonRow {
+  white-space: nowrap;
+  overflow-x: auto;
+}
+
+.KjviCq_controlPane {
+  background-color: #fff;
+  border-radius: 8px;
+  margin-bottom: 32px;
+  padding: 18px 24px 24px;
+}
+
+.KjviCq_title {
+  margin: 0 0 -4px;
+}
+
+.KjviCq_metadata {
+  color: #4d4d4d;
+  margin-left: 16px;
+  font-size: .875rem;
+  font-weight: 400;
+}
+
+.DXPfTq_characterEditor {
+  padding-top: 128px;
+  padding-bottom: 64px;
+}
+
+.DXPfTq_header {
+  max-width: 65%;
+  padding-bottom: 64px;
+}
+
+.DXPfTq_title {
+  letter-spacing: -.5px;
+  margin-top: 0;
+  margin-bottom: 16px;
+  font-size: 2.5rem;
+  font-weight: 600;
+}
+
+.DXPfTq_description {
+  margin: 0;
+  font-size: 1.25rem;
+}
+
+.DXPfTq_groundPlane {
+  background-color: #d4dfe2;
+  width: 100%;
+  height: 40%;
+  position: fixed;
+  top: 60%;
+}
+
+.DXPfTq_characterWrapper {
+  width: 35%;
+  min-height: 500px;
+  position: fixed;
+  top: 128px;
+  right: 32px;
+}
+
+.DXPfTq_controlColumn {
+  max-width: 50%;
+  position: relative;
+}
+
+.BOBUQq_footer {
+  color: #fff;
+  text-align: center;
+  background: #0d0d0d;
+  padding: 64px;
+  position: relative;
+}
+
+.BOBUQq_footer a {
+  color: #fff;
+}
+
+/*# sourceMappingURL=index.61d3354a.css.map */
